@@ -1,0 +1,21 @@
+{
+    "sourceURL": "https://www.wnacg.com/",
+    "sourceName": "绅士漫画",
+    "sourceIcon": "wnacg",
+    "sourceIsNSFW": true,
+    "sourceCategories": [
+        {
+            "categoryName": "更新",
+            "categoryURL": "albums.html"
+        },
+        {
+            "categoryName": "同人誌",
+            "categoryURL": "albums-index-cate-5.html"
+        },
+        {
+            "categoryName": "單行本",
+            "categoryURL": "albums-index-cate-6.html"
+        }
+    ],
+    "mangaListQuery": "//*[@id=\"bodywrap\"]/div[2]/div[1]/ul/li/div[@class='info']/div/a",
+}
